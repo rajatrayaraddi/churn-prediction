@@ -18,7 +18,7 @@ This repository contains code and analysis for predicting customer churn using a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/churn-prediction.git
+   git clone git clone https://github.com/rajatrayaraddi/churn-prediction.git
    cd churn-prediction
 
 2. Install the dependencies:
