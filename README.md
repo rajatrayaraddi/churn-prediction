@@ -16,6 +16,19 @@ This repository contains code and analysis for predicting customer churn using a
 
 ## Getting Started
 
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/churn-prediction.git
+   cd churn-prediction
 
+2. Install the dependencies:
+   `pip install -r requirements.txt`
+
+3. (Optional) Generate your own dataset:
+   `python dataset_scrape.py`
+
+4. Run the notebook
+   `jupyter notebook churn_prediction.ipynb`
+   
 ## License
 This project is for academic and educational purposes only.
