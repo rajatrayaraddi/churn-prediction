@@ -27,7 +27,7 @@ This repository contains code and analysis for predicting customer churn using a
 3. (Optional) Generate your own dataset:
    `python dataset_scrape.py`
 
-4. Run the notebook
+4. Run the notebook:
    `jupyter notebook churn_prediction.ipynb`
    
 ## License
